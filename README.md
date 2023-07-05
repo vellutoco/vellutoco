@@ -1,10 +1,8 @@
-### 👋 Привет! Меня зовут Виктория Козлова
+## 👋 Привет! Меня зовут Виктория Козлова
 
---- 
+:woman_technologist: **Опыт коммерческой разработки:** 1,5 года.
 
-### :woman_technologist: Опыт коммерческой разработки: 1,5 года.
-
-### :hammer_and_wrench: Стек: Vue
+:hammer_and_wrench: **Стек:** Vue
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="50" height="50"/>&nbsp;
@@ -17,9 +15,10 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="50" height="50"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="wordPress" alt="wordPress" width="50" height="50"/>&nbsp;
-</div>
+</div>&nbsp;
 
-### Коротко обо мне:
+
+**Коротко обо мне:**
 
 - Легко вливаюсь в работу команды 
 
@@ -29,9 +28,7 @@
 
 - Подхожу к любой задаче ответственно, делаю - качественно, уделяю внимание деталям
 
-### GitHub Stats:
-
----
+## GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vellutoco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

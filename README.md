@@ -1,11 +1,16 @@
 ## 👋 Привет! Меня зовут Виктория Козлова
 
 :woman_technologist: **Опыт коммерческой разработки:** 1,5 года.
+Некоторые коммерческие проекты:
+<a href="https://smartesta.com" target='_blank'>https://smartesta.com/</>
+https://upliftu.gg/
+https://upliftu.gg/about
+https://institut-sennikov.ru/
 
 :hammer_and_wrench: **Стек:** Vue, react
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50" height="50"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp;
+<!-- 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp; -->
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxtJs" alt="nuxtJs" width="50" height="50"/>&nbsp;

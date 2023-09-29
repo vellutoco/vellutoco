@@ -2,12 +2,12 @@
 
 :woman_technologist: **Опыт коммерческой разработки:** 1,5 года.
 Некоторые коммерческие проекты:
-<a href="https://smartesta.com" target='_blank'>https://smartesta.com/</>
-https://upliftu.gg/
-https://upliftu.gg/about
-https://institut-sennikov.ru/
+- https://smartesta.com/
+- https://upliftu.gg/
+- https://upliftu.gg/about
+- https://institut-sennikov.ru/
 
-:hammer_and_wrench: **Стек:** Vue, react
+:hammer_and_wrench: **Стек:** Vue
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50" height="50"/>&nbsp;
 <!-- 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp; -->

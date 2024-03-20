@@ -2,11 +2,12 @@
 
 :woman_technologist: **Опыт коммерческой разработки:** около двух лет.
 Некоторые коммерческие проекты:
-- https://smartesta.com/
-- https://upliftu.gg/
-- https://upliftu.gg/about
-- https://jazzcinema.ru/
-- https://institut-sennikov.ru/
+- https://smartesta.com/ Верстка и натяжка на WP, исправление багов с анимацией, валидация формы, приведение верстки согласно макетам
+- https://upliftu.gg/ Разработка с нуля (vue3/nuxt3, анимация GSAP)
+- https://upliftu.gg/about Разработка с нуля (vue3/nuxt3, анимация GSAP)
+- https://upliftu.gg Разработка разделов админки с использованием библиотеки Ag-Grid (vue3/nuxt3, SCSS)
+- https://jazzcinema.ru/ Адаптив по макету из Figma, бронирование билетов, модальные окна, внесение правок, личный кабинет (карты лояльности, история бронирования билетов, заполнение профиля, жалобы и предложения)(vue/nuxt, SCSS)
+- https://institut-sennikov.ru/ верстка и натяжка на WP (html, css, js)
 
 :hammer_and_wrench: **Стек:** Vue, JavaScript, HTML, CSS, SCSS, Git, GSAP, Ag-Grid
 <div>

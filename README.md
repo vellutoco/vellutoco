@@ -5,9 +5,10 @@
 - https://smartesta.com/
 - https://upliftu.gg/
 - https://upliftu.gg/about
+- https://jazzcinema.ru/
 - https://institut-sennikov.ru/
 
-:hammer_and_wrench: **Стек:** Vue, JavaScript, HTML, CSS, SCSS, Git, GSAP
+:hammer_and_wrench: **Стек:** Vue, JavaScript, HTML, CSS, SCSS, Git, GSAP, Ag-Grid
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50" height="50"/>&nbsp;
 <!-- 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp; -->

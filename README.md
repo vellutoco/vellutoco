@@ -4,7 +4,7 @@
 Некоторые коммерческие проекты:
 - https://upliftu.gg/ Разработка с нуля по макетам Figma (vue3/nuxt3, анимация GSAP)
 - https://upliftu.gg/about Разработка с нуля по макетам Figma (vue3/nuxt3, анимация GSAP)
-- https://upliftu.gg Разработка разделов админки с использованием библиотеки Ag-Grid по макетам Figma (vue3/nuxt3, TypeScript, SCSS)
+- https://dashboard.upliftu.gg/ Разработка разделов админки с использованием библиотеки Ag-Grid по макетам Figma (vue3/nuxt3, TypeScript, SCSS, Ag-Grid)
 - https://jazzcinema.ru/ Бронирование билетов, модальные окна, личный кабинет (карты лояльности, история бронирования билетов, заполнение профиля, жалобы и предложения), внесение правок, адаптив по макету из Figma (vue/nuxt, SCSS)
 - https://smartesta.com/ Верстка по макету Figma и натяжка на CMS WordPress, анимация, валидация формы, приведение верстки согласно макетам Figma
 - https://institut-sennikov.ru/ Верстка по макету Figma и натяжка на CMS WordPress (html, css, js)

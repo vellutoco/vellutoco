@@ -9,7 +9,7 @@
 - https://smartesta.com/ Верстка по макету Figma и натяжка на CMS WordPress, анимация, валидация формы, приведение верстки согласно макетам Figma
 - https://institut-sennikov.ru/ Верстка по макету Figma и натяжка на CMS WordPress (html, css, js)
 
-:hammer_and_wrench: **Стек:** Vue, JavaScript, HTML, CSS, SCSS, Git, GSAP, Ag-Grid
+:hammer_and_wrench: **Стек:** Vue (Nuxt), JavaScript, HTML, CSS, SCSS, Git, GSAP, Ag-Grid
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50" height="50"/>&nbsp;
 <!-- 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp; -->
@@ -30,7 +30,7 @@
 
 - Легко вливаюсь в работу команды 
 
-- Имею опыт работы в проектах с разными технологиями: Vue.js (Nuxt 3), JS, PHP и т.д.
+- Имею опыт работы в проектах с разными технологиями: Vue.js (Nuxt 3), JS, SCSS, PHP.
 
 - Не боюсь изучать новое
 
